@@ -1,0 +1,18 @@
+.sidebar{
+    display: flex;
+    align-items: center;
+    position: fixed;
+    height: 100%;
+    width: 15%;
+    border-right: 2px solid #e5e5e5;
+    z-index: 3;
+    flex-direction: column;
+}
+
+.logo-conatiner{
+    margin-bottom: 4rem;
+}
+
+.logo-conatiner h1{
+    margin-top: 1.3rem;
+}
